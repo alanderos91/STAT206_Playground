@@ -19,3 +19,8 @@ Something else.
 
 Let's try again.
 
+# Fancy header
+
+```{r}
+head(iris, n = 5)
+```

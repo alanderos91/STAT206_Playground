@@ -19,3 +19,13 @@ Something else.
 
 Let's try again.
 
+# Start of my unique branch
+- - -
+
+```{r}
+
+x <- sample.int(100, 2000, replace = TRUE)
+
+hist(x)
+
+```

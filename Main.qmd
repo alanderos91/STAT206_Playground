@@ -17,6 +17,12 @@ This is a conflict.
 
 Something else.
 
+## Make changes to this file
+
+```{r}
+print("Hello")
+```
+
 Let's try again.
 
 # Fancy header

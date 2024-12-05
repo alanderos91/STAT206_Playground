@@ -12,10 +12,10 @@ This is an edit.
 
 This is another edit.
 
+
 This is a conflict.
 
 Something else.
-
 
 ## Make changes to this file
 
@@ -23,3 +23,10 @@ Something else.
 print("Hello")
 ```
 
+Let's try again.
+
+# Fancy header
+
+```{r}
+head(iris, n = 5)
+```

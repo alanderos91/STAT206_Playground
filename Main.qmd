@@ -1,0 +1,9 @@
+---
+title: "An analysis"
+author: "TBD"
+html:
+  page-layout: full
+error: true
+---
+
+This is a test.

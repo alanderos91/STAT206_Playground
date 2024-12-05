@@ -9,3 +9,5 @@ error: true
 This is a test.
 
 This is an edit.
+
+This is another edit.

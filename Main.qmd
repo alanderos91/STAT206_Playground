@@ -15,3 +15,11 @@ This is another edit.
 This is a conflict.
 
 Something else.
+
+
+## Make changes to this file
+
+```{r}
+print("Hello")
+```
+
